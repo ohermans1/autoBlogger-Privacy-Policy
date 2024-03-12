@@ -1,3 +1,5 @@
+Note: If you are reviewing this privacy policy due to the **recent scope update request for viewing products**, we want to assure you that this update is essential for an exciting new feature. It involves read-only access to your product titles and descriptions. Rest assured, your data won't be shared, and we are committed to managing it with utmost respect in accordance with the remainder of the privacy policy outlined below.
+
 - *Note: The main version of this Privacy Policy is in English. In the event of any discrepancies or conflicts between the translated versions and the English version, the English version shall prevail.*
 - *注意：本隐私政策的主要版本为英文。如果翻译版本与英文版本存在任何不一致或冲突，将以英文版本为准。*
 - *注意：本隱私政策的主要版本為英文。如果翻譯版本與英文版本存在任何不一致或衝突，將以英文版本為準。*
