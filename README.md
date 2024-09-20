@@ -24,9 +24,9 @@ Note: If you are reviewing this privacy policy due to the **recent scope update 
 # [Jump to English](#english) | [Jump to Chinese (Simplified)](#chinese-simplified) | [Jump to Chinese (Traditional)](#chinese-traditional) | [Jump to Czech](#czech) | [Jump to Danish](#danish) | [Jump to Dutch](#dutch) | [Jump to Finnish](#finnish) | [Jump to French](#french) | [Jump to German](#german) | [Jump to Italian](#italian) | [Jump to Japanese](#japanese) | [Jump to Korean](#korean) | [Jump to Norwegian (Bokmål)](#norwegian-bokmal) | [Jump to Polish](#polish) | [Jump to Portuguese (Brazil)](#portuguese-brazil) | [Jump to Portuguese (Portugal)](#portuguese-portugal) | [Jump to Spanish](#spanish) | [Jump to Swedish](#swedish) | [Jump to Thai](#thai) | [Jump to Turkish](#turkish)
 
 # English <a name="english"></a>
-## Privacy Policy for autoBlogger Shopify App
+## Privacy Policy for autoBlogger Shopify/Wix App
 
-At autoBlogger, we take your privacy very seriously. This Privacy Policy describes how we collect, use, and share information about you when you use our autoBlogger Shopify App (the "App").
+At autoBlogger, we take your privacy very seriously. This Privacy Policy describes how we collect, use, and share information about you when you use our autoBlogger Shopify/Wix App (the "App").
 
 ## What Information We Collect
 
@@ -77,9 +77,9 @@ If you have any questions or concerns about our privacy practices or this Privac
 ***
 
 # Chinese (Simplified) <a name="chinese-simplified"></a>
-## autoBlogger Shopify 应用隐私政策
+## autoBlogger Shopify/Wix 应用隐私政策
 
-在autoBlogger，我们非常重视您的隐私。本隐私政策描述了您在使用我们的autoBlogger Shopify 应用（以下简称“应用”）时，我们如何收集、使用和分享您的信息。
+在autoBlogger，我们非常重视您的隐私。本隐私政策描述了您在使用我们的autoBlogger Shopify/Wix 应用（以下简称“应用”）时，我们如何收集、使用和分享您的信息。
 
 ## 我们收集的信息
 
@@ -130,9 +130,9 @@ If you have any questions or concerns about our privacy practices or this Privac
 ***
 
 # Chinese (Traditional) <a name="chinese-traditional"></a>
-## autoBlogger Shopify 應用隱私政策
+## autoBlogger Shopify/Wix 應用隱私政策
 
-在 autoBlogger，我們非常重視您的隱私。本隱私政策描述了您在使用我們的 autoBlogger Shopify 應用（以下簡稱「應用」）時，我們如何收集、使用和分享您的信息。
+在 autoBlogger，我們非常重視您的隱私。本隱私政策描述了您在使用我們的 autoBlogger Shopify/Wix 應用（以下簡稱「應用」）時，我們如何收集、使用和分享您的信息。
 
 ## 我們收集的信息
 
@@ -183,9 +183,9 @@ If you have any questions or concerns about our privacy practices or this Privac
 ***
 
 # Czech <a name="czech"></a>
-## Zásady ochrany osobních údajů pro Shopify aplikaci autoBlogger
+## Zásady ochrany osobních údajů pro Shopify/Wix aplikaci autoBlogger
 
-V autoBloggeru bere ochranu vašich osobních údajů vážně. Tato Zásady ochrany osobních údajů popisují, jak sbíráme, používáme a sdílíme informace o vás, když používáte naši Shopify aplikaci autoBlogger (dále jen "Aplikace").
+V autoBloggeru bere ochranu vašich osobních údajů vážně. Tato Zásady ochrany osobních údajů popisují, jak sbíráme, používáme a sdílíme informace o vás, když používáte naši Shopify/Wix aplikaci autoBlogger (dále jen "Aplikace").
 
 ## Jaké informace shromažďujeme
 
@@ -236,9 +236,9 @@ Pokud máte jakékoliv otázky nebo obavy ohledně našich postupů ochrany osob
 ***
 
 # Danish <a name="danish"></a>
-## Fortrolighedspolitik for autoBlogger Shopify-app
+## Fortrolighedspolitik for autoBlogger Shopify/Wix-app
 
-Hos autoBlogger tager vi dit privatliv alvorligt. Denne fortrolighedspolitik beskriver, hvordan vi indsamler, bruger og deler oplysninger om dig, når du bruger vores autoBlogger Shopify-app (herefter kaldet "appen").
+Hos autoBlogger tager vi dit privatliv alvorligt. Denne fortrolighedspolitik beskriver, hvordan vi indsamler, bruger og deler oplysninger om dig, når du bruger vores autoBlogger Shopify/Wix-app (herefter kaldet "appen").
 
 ## Hvilke oplysninger indsamler vi
 
@@ -289,9 +289,9 @@ Hvis du har spørgsmål eller bekymringer vedrørende vores praksis vedrørende 
 ***
 
 # Dutch <a name="dutch"></a>
-## Privacybeleid voor autoBlogger Shopify App
+## Privacybeleid voor autoBlogger Shopify/Wix App
 
-Bij autoBlogger nemen we jouw privacy zeer serieus. Dit Privacybeleid beschrijft hoe we informatie over jou verzamelen, gebruiken en delen wanneer je onze autoBlogger Shopify App (hierna "de App") gebruikt.
+Bij autoBlogger nemen we jouw privacy zeer serieus. Dit Privacybeleid beschrijft hoe we informatie over jou verzamelen, gebruiken en delen wanneer je onze autoBlogger Shopify/Wix App (hierna "de App") gebruikt.
 
 ## Welke informatie we verzamelen
 
@@ -342,9 +342,9 @@ Als je vragen of zorgen hebt over onze privacypraktijken of dit Privacybeleid, n
 ***
 
 # Finnish <a name="finnish"></a>
-## Tietosuojaseloste autoBlogger Shopify -sovellukselle
+## Tietosuojaseloste autoBlogger Shopify/Wix -sovellukselle
 
-Me autoBloggerissa suhtaudumme yksityisyyteesi erittäin vakavasti. Tämä tietosuojaseloste kuvaa, miten keräämme, käytämme ja jaamme tietoa sinusta, kun käytät autoBlogger Shopify -sovellustamme (jäljempänä "Sovellus").
+Me autoBloggerissa suhtaudumme yksityisyyteesi erittäin vakavasti. Tämä tietosuojaseloste kuvaa, miten keräämme, käytämme ja jaamme tietoa sinusta, kun käytät autoBlogger Shopify/Wix -sovellustamme (jäljempänä "Sovellus").
 
 ## Mitä tietoa keräämme
 
@@ -395,9 +395,9 @@ Jos sinulla on kysymyksiä tai huolenaiheita tietosuojakäytännöistämme tai t
 ***
 
 # French <a name="french"></a>
-## Politique de confidentialité pour l'application Shopify autoBlogger
+## Politique de confidentialité pour l'application Shopify/Wix autoBlogger
 
-Chez autoBlogger, nous prenons votre vie privée très au sérieux. Cette politique de confidentialité décrit comment nous collectons, utilisons et partageons des informations vous concernant lorsque vous utilisez notre application Shopify autoBlogger (ci-après "l'Application").
+Chez autoBlogger, nous prenons votre vie privée très au sérieux. Cette politique de confidentialité décrit comment nous collectons, utilisons et partageons des informations vous concernant lorsque vous utilisez notre application Shopify/Wix autoBlogger (ci-après "l'Application").
 
 ## Les informations que nous collectons
 
@@ -448,9 +448,9 @@ Si vous avez des questions ou des préoccupations concernant nos pratiques en ma
 ***
 
 # German <a name="german"></a>
-## Datenschutzrichtlinie für die autoBlogger Shopify App
+## Datenschutzrichtlinie für die autoBlogger Shopify/Wix App
 
-Bei autoBlogger nehmen wir Ihren Datenschutz sehr ernst. Diese Datenschutzrichtlinie beschreibt, wie wir Informationen über Sie sammeln, verwenden und teilen, wenn Sie unsere autoBlogger Shopify App (im Folgenden "App") verwenden.
+Bei autoBlogger nehmen wir Ihren Datenschutz sehr ernst. Diese Datenschutzrichtlinie beschreibt, wie wir Informationen über Sie sammeln, verwenden und teilen, wenn Sie unsere autoBlogger Shopify/Wix App (im Folgenden "App") verwenden.
 
 ## Welche Informationen wir sammeln
 
@@ -501,9 +501,9 @@ Wenn Sie Fragen oder Bedenken zu unseren Datenschutzpraktiken oder dieser Datens
 ***
 
 # Italian <a name="italian"></a>
-## Informativa sulla privacy per l'app Shopify autoBlogger
+## Informativa sulla privacy per l'app Shopify/Wix autoBlogger
 
-Da autoBlogger, prendiamo molto sul serio la tua privacy. Questa Informativa sulla privacy descrive come raccogliamo, utilizziamo e condividiamo le informazioni su di te quando utilizzi la nostra app Shopify autoBlogger (di seguito "l'App").
+Da autoBlogger, prendiamo molto sul serio la tua privacy. Questa Informativa sulla privacy descrive come raccogliamo, utilizziamo e condividiamo le informazioni su di te quando utilizzi la nostra app Shopify/Wix autoBlogger (di seguito "l'App").
 
 ## Quali informazioni raccogliamo
 
@@ -554,9 +554,9 @@ Se hai domande o preoccupazioni riguardo alle nostre pratiche sulla privacy o a 
 ***
 
 # Japanese <a name="japanese"></a>
-## autoBlogger Shopifyアプリのプライバシーポリシー
+## autoBlogger Shopify/Wixアプリのプライバシーポリシー
 
-autoBloggerでは、お客様のプライバシーを非常に重要視しています。このプライバシーポリシーでは、当社のautoBlogger Shopifyアプリ（以下、「アプリ」）を使用する際にお客様から収集、利用、共有する情報について説明しています。
+autoBloggerでは、お客様のプライバシーを非常に重要視しています。このプライバシーポリシーでは、当社のautoBlogger Shopify/Wixアプリ（以下、「アプリ」）を使用する際にお客様から収集、利用、共有する情報について説明しています。
 
 ## 収集する情報
 
@@ -607,9 +607,9 @@ autoBloggerでは、お客様のプライバシーを非常に重要視してい
 ***
 
 # Korean <a name="korean"></a>
-## autoBlogger Shopify 앱 개인정보 처리방침
+## autoBlogger Shopify/Wix 앱 개인정보 처리방침
 
-autoBlogger에서는 귀하의 개인정보를 심각하게 취급합니다. 본 개인정보 처리방침은 당사의 autoBlogger Shopify 앱(이하 "앱")을 사용할 때 귀하에 관한 정보를 어떻게 수집, 사용 및 공유하는지에 대해 설명합니다.
+autoBlogger에서는 귀하의 개인정보를 심각하게 취급합니다. 본 개인정보 처리방침은 당사의 autoBlogger Shopify/Wix 앱(이하 "앱")을 사용할 때 귀하에 관한 정보를 어떻게 수집, 사용 및 공유하는지에 대해 설명합니다.
 
 ## 수집하는 정보
 
@@ -660,9 +660,9 @@ autoBlogger에서는 귀하의 개인정보를 심각하게 취급합니다. 본
 ***
 
 # Norwegian (Bokmål) <a name="norwegian-bokmal"></a>
-## Personvernserklæring for autoBlogger Shopify App
+## Personvernserklæring for autoBlogger Shopify/Wix App
 
-Hos autoBlogger tar vi ditt personvern svært alvorlig. Denne personvernserklæringen beskriver hvordan vi samler inn, bruker og deler informasjon om deg når du bruker vår autoBlogger Shopify App (heretter "Appen").
+Hos autoBlogger tar vi ditt personvern svært alvorlig. Denne personvernserklæringen beskriver hvordan vi samler inn, bruker og deler informasjon om deg når du bruker vår autoBlogger Shopify/Wix App (heretter "Appen").
 
 ## Hvilken informasjon vi samler inn
 
@@ -713,9 +713,9 @@ Hvis du har spørsmål eller bekymringer om våre personvernpraksiser eller denn
 ***
 
 # Polish <a name="polish"></a>
-## Polityka prywatności dla aplikacji Shopify autoBlogger
+## Polityka prywatności dla aplikacji Shopify/Wix autoBlogger
 
-W autoBlogger traktujemy Twoją prywatność bardzo poważnie. Niniejsza Polityka Prywatności opisuje, jak zbieramy, używamy i udostępniamy informacje o Tobie, gdy korzystasz z naszej aplikacji Shopify autoBlogger (dalej "Aplikacja").
+W autoBlogger traktujemy Twoją prywatność bardzo poważnie. Niniejsza Polityka Prywatności opisuje, jak zbieramy, używamy i udostępniamy informacje o Tobie, gdy korzystasz z naszej aplikacji Shopify/Wix autoBlogger (dalej "Aplikacja").
 
 ## Jakie informacje zbieramy
 
@@ -766,9 +766,9 @@ Jeśli masz jakiekolwiek pytania lub obawy dotyczące naszych praktyk prywatnoś
 ***
 
 # Portuguese (Brazil) <a name="portuguese-brazil"></a>
-## Política de Privacidade para o aplicativo autoBlogger Shopify
+## Política de Privacidade para o aplicativo autoBlogger Shopify/Wix
 
-Na autoBlogger, levamos sua privacidade muito a sério. Esta Política de Privacidade descreve como coletamos, usamos e compartilhamos informações sobre você quando você usa nosso aplicativo autoBlogger Shopify (doravante "Aplicativo").
+Na autoBlogger, levamos sua privacidade muito a sério. Esta Política de Privacidade descreve como coletamos, usamos e compartilhamos informações sobre você quando você usa nosso aplicativo autoBlogger Shopify/Wix (doravante "Aplicativo").
 
 ## Quais informações coletamos
 
@@ -819,9 +819,9 @@ Se você tiver alguma dúvida ou preocupação sobre nossas práticas de privaci
 ***
 
 # Portuguese (Portugal) <a name="portuguese-portugal"></a>
-## Política de Privacidade para a aplicação autoBlogger Shopify
+## Política de Privacidade para a aplicação autoBlogger Shopify/Wix
 
-Na autoBlogger, levamos a sua privacidade muito a sério. Esta Política de Privacidade descreve como recolhemos, usamos e partilhamos informações sobre si quando utiliza a nossa aplicação autoBlogger Shopify (doravante "Aplicação").
+Na autoBlogger, levamos a sua privacidade muito a sério. Esta Política de Privacidade descreve como recolhemos, usamos e partilhamos informações sobre si quando utiliza a nossa aplicação autoBlogger Shopify/Wix (doravante "Aplicação").
 
 ## Que informações recolhemos
 
@@ -872,9 +872,9 @@ Se tiver alguma dúvida ou preocupação sobre as nossas práticas de privacidad
 ***
 
 # Spanish <a name="spanish"></a>
-## Política de privacidad para la aplicación autoBlogger de Shopify
+## Política de privacidad para la aplicación autoBlogger de Shopify/Wix
 
-En autoBlogger, tomamos tu privacidad muy en serio. Esta Política de privacidad describe cómo recopilamos, usamos y compartimos información sobre ti cuando utilizas nuestra aplicación autoBlogger de Shopify (en adelante, "la aplicación").
+En autoBlogger, tomamos tu privacidad muy en serio. Esta Política de privacidad describe cómo recopilamos, usamos y compartimos información sobre ti cuando utilizas nuestra aplicación autoBlogger de Shopify/Wix (en adelante, "la aplicación").
 
 ## Qué información recopilamos
 
@@ -925,9 +925,9 @@ Si tienes alguna pregunta o inquietud sobre nuestras prácticas de privacidad o 
 ***
 
 # Swedish <a name="swedish"></a>
-## Integritetspolicy för autoBlogger Shopify-app
+## Integritetspolicy för autoBlogger Shopify/Wix-app
 
-På autoBlogger tar vi din integritet på största allvar. Denna Integritetspolicy beskriver hur vi samlar in, använder och delar information om dig när du använder vår autoBlogger Shopify-app (nedan "appen").
+På autoBlogger tar vi din integritet på största allvar. Denna Integritetspolicy beskriver hur vi samlar in, använder och delar information om dig när du använder vår autoBlogger Shopify/Wix-app (nedan "appen").
 
 ## Vilken information vi samlar in
 
@@ -978,9 +978,9 @@ Om du har några frågor eller funderingar om våra integritetsprinciper eller d
 ***
 
 # Thai <a name="thai"></a>
-## นโยบายความเป็นส่วนตัวสำหรับแอป autoBlogger บน Shopify
+## นโยบายความเป็นส่วนตัวสำหรับแอป autoBlogger บน Shopify/Wix
 
-ที่ autoBlogger เราใส่ใจเรื่องความเป็นส่วนตัวของคุณอย่างมาก นโยบายความเป็นส่วนตัวนี้อธิบายถึงวิธีการเราเก็บรวบรวม ใช้ และแบ่งปันข้อมูลเกี่ยวกับคุณเมื่อคุณใช้แอป autoBlogger บน Shopify ของเรา (ต่อไปนี้ว่า "แอป").
+ที่ autoBlogger เราใส่ใจเรื่องความเป็นส่วนตัวของคุณอย่างมาก นโยบายความเป็นส่วนตัวนี้อธิบายถึงวิธีการเราเก็บรวบรวม ใช้ และแบ่งปันข้อมูลเกี่ยวกับคุณเมื่อคุณใช้แอป autoBlogger บน Shopify/Wix ของเรา (ต่อไปนี้ว่า "แอป").
 
 ## ข้อมูลที่เราเก็บรวบรวม
 
@@ -1031,9 +1031,9 @@ Om du har några frågor eller funderingar om våra integritetsprinciper eller d
 ***
 
 # Turkish <a name="turkish"></a>
-## autoBlogger Shopify Uygulaması İçin Gizlilik Politikası
+## autoBlogger Shopify/Wix Uygulaması İçin Gizlilik Politikası
 
-autoBlogger'da gizliliğiniz bizim için çok önemlidir. Bu Gizlilik Politikası, autoBlogger Shopify Uygulamamızı (bundan sonra "Uygulama" olarak anılacaktır) kullanırken sizi ilgilendiren bilgileri nasıl topladığımızı, kullanıp paylaştığımızı açıklar.
+autoBlogger'da gizliliğiniz bizim için çok önemlidir. Bu Gizlilik Politikası, autoBlogger Shopify/Wix Uygulamamızı (bundan sonra "Uygulama" olarak anılacaktır) kullanırken sizi ilgilendiren bilgileri nasıl topladığımızı, kullanıp paylaştığımızı açıklar.
 
 ## Hangi Bilgileri Topladığımız
 
